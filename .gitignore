@@ -1,0 +1,12 @@
+# Ignore data and outputs
+data/
+outputs/
+
+# Python virtual environments
+venv/
+
+# Python bytecode cache
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
