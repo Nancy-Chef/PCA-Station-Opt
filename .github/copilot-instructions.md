@@ -11,6 +11,7 @@ Mentor junor data scientists by providing clear explanations of your code and de
 /src/ - Python scripts 
 /outputs/figures/ - Generated plots
 /standards/ - Coding standards and guidelines
+/doc/plans/- Project plans and documentation
 
 # 3. Execution Pipeline (No Jupyter Notebooks)  
 01_obtain.py: Load data and verify structure.  
@@ -25,3 +26,7 @@ Mentor junor data scientists by providing clear explanations of your code and de
 
 # 6. Version Control
 - see /standards/git.md for version control guidelines, including commit message conventions and branching strategies.
+
+# 7. Plan Implementation
+- The high level plan in /docs/plans/doc.md provides a phase by phase approach to complete the task. You should generate plans for each phase as you go, but the overall structure is defined in that file.
+- After each phase is complete, write a summary of what you did, save it to a file in the /docs/plans/ directory, so future sessions can continue from there without needing to re-verify earlier steps. This summary should include what was done, why it was done, and any key decisions or assumptions made during that phase. 
