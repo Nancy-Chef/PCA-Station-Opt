@@ -6,7 +6,7 @@ The final recommendation from the completed analysis is straightforward: retain 
 
 ## Submission Files
 
-Instructor-facing deliverables are collected in `deliverables/`:
+Deliverables are collected in `deliverables/`:
 
 - `deliverables/README.md` – quick guide to the final submission bundle
 - `deliverables/cleaning.py` – consolidated ingestion and cleaning entry point
